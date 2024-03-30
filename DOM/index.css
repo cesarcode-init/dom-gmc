@@ -1,0 +1,38 @@
+/* body {
+    background: red;
+} */
+
+.divbackground {
+    background: #000;
+}
+
+li {
+    color: white;
+}
+
+.students_list {
+    list-style: none;
+}
+
+.btn {
+    background: yellow;
+}
+
+.btn-t {
+    background: green;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10px 0;
+}
+
+form {
+    margin: 20px 0;
+}
+
+.message {
+    color: red;
+}
